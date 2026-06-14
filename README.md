@@ -1,2 +1,2 @@
-# portafolio_web
-Mi primer proyecto web con HTML y CSS
+# Mi Primer Proyecto
+Este es mi primer repositorio en GitHub 🚀
