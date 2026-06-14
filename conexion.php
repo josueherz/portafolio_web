@@ -3,7 +3,7 @@ $host = 'localhost';
 $usuario = 'root';
 $contrasena = '';
 $basedatos = 'prueba';
-
+echo ="Esto solo es una prueba"
 $conexion = new mysqli($host, $usuario, $contrasena, $basedatos);
 
 if ($conexion->connect_error) {
